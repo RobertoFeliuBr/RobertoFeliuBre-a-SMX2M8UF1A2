@@ -1,6 +1,7 @@
 ## Evaluación inicial
 
 1. ¿Qué es una página web?
+
 Una página web es un documento digital accesible en Internet que contiene texto, multimedia y enlaces, visualizado mediante navegadores
 
 2. ¿Qué es un sitio web?
