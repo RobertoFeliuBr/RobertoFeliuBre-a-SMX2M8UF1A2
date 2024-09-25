@@ -6,9 +6,15 @@ Una página web es un documento digital accesible en Internet que contiene texto
 
 2. ¿Qué es un sitio web?
 
+Es un conjunto de paginas web que están bajo el mismo dominio
+
 3. ¿Qué es una aplicación web?
 
+Es un software que descargamos para poder interactuar con nuevos servidores
+
 4. ¿Qué es una herramienta ofimática?
+
+Una herramienta ofimática es un software diseñado para realizar tareas de oficina como procesamiento de texto, hojas de cálculo y presentaciones.
 
 5.[Herramientas de Google:](https://www.google.com/intl/es-419/chrome/browser-tools/ "Clica Albertoo")
 
