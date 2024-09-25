@@ -17,5 +17,14 @@
 |Google Sheets||
 |Google Calendar||
 |Google Meet| |
+|...|...| 
 
 6. ¿Qué es HTML?
+
+
+
+7. ¿Qué es CSS?
+
+8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+
+
