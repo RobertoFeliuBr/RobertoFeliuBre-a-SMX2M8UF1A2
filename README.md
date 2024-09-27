@@ -42,5 +42,5 @@ Petición: El navegador solicita recursos (como páginas HTML, imágenes o archi
 Servidor: El servidor procesa la petición, busca los recursos solicitados y los prepara para enviarlos de vuelta.
 Respuesta: El servidor envía una respuesta HTTP con los recursos solicitados, que el navegador interpreta y muestra al usuario.
 
-![imagen](D:\repositorios\RobertoFeliuBre-a-SMX2M8UF1A2\ulrimo.png)
+![imagen](https://github.com/RobertoFeliuBr/RobertoFeliuBre-a-SMX2M8UF1A2/blob/main/ulrimo.png)
 
