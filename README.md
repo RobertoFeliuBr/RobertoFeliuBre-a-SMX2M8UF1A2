@@ -29,7 +29,7 @@ Una herramienta ofimática es un software diseñado para realizar tareas de ofic
 
 6. ¿Qué es HTML?
 
-
+Es un protocolo de pagina web. Este también se puede decir que es un lenguaje. 
 
 7. ¿Qué es CSS?
 
