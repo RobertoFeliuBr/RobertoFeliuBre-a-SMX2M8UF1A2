@@ -33,6 +33,12 @@ Es un protocolo de pagina web. Este también se puede decir que es un lenguaje.
 
 7. ¿Qué es CSS?
 
+Es un lenguaje utilizado para definir el estilo y la apariencia visual de una página web. Se utiliza para aplicar colores, fuentes, márgenes, alineaciones, y diseños a los elementos HTML
+
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
+Navegador: El usuario ingresa una URL o hace clic en un enlace, y el navegador envía una petición HTTP al servidor.
+Petición: El navegador solicita recursos (como páginas HTML, imágenes o archivos) al servidor mediante una petición.
+Servidor: El servidor procesa la petición, busca los recursos solicitados y los prepara para enviarlos de vuelta.
+Respuesta: El servidor envía una respuesta HTTP con los recursos solicitados, que el navegador interpreta y muestra al usuario.
 
