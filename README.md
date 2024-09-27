@@ -20,7 +20,7 @@ Una herramienta ofimática es un software diseñado para realizar tareas de ofic
 
 |Aplicaciones |Visto |
 |---------|:-------:|
-|Google Docs| |![imagen](https://github.com/RobertoFeliuBr/RobertoFeliuBre-a-SMX2M8UF1A2/blob/main/tik.png)|
+|Google Docs||![imagen](https://github.com/RobertoFeliuBr/RobertoFeliuBre-a-SMX2M8UF1A2/blob/main/tik.png)|
 |Google Slides|![imagen](https://github.com/RobertoFeliuBr/RobertoFeliuBre-a-SMX2M8UF1A2/blob/main/tik.png)|
 |Google Sheets|![imagen](https://github.com/RobertoFeliuBr/RobertoFeliuBre-a-SMX2M8UF1A2/blob/main/tik.png)|
 |Google Calendar||
